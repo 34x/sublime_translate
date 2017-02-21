@@ -1,6 +1,9 @@
 Sublime Text 3 translate plugin (for Yandex.Translate)
 ======================================================
 
+### Description
+
+Plugin for Sublime Text 3 to easily translate from English to Russian and vice versa with language autodetection.
 
 ### Installation
 
